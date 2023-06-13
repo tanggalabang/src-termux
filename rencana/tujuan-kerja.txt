@@ -1,0 +1,18 @@
+Tujuan Bekerja
+
+Tempat : KHB / UAH
+Bidang : Web Dev & Mobile Dev
+
+Skill
+- Web Dev
+  React js
+  Laravel
+- Mobile Dev
+  React native
+  Flutter
+
+Persyaratan
+- Fortofolio
+-- Hard Skill
+-- Soft Skill
+
